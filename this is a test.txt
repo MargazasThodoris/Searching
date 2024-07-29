@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-My name is thodoris
-=======
 My name is thodoris on my first branch. I did an update
->>>>>>> f7895317ed08cf1e4127c5216d2b32ad7a556250
+
